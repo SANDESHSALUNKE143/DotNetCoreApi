@@ -1,0 +1,10 @@
+
+€csharpsquid:S3928Ö"[Use a constructor overloads that allows a more meaningful exception message to be provided.(«»˜Ó8šÿ°çø1
+scsharpsquid:S1118"OAdd a 'protected' constructor or the 'static' keyword to the class declaration.(Žè‚‚8šÿ°çø1
+vcsharpsquid:S3776F"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(î™é¢8›ÿ°çø1
+Kcsharpsquid:S3903"'Move 'Solution' into a named namespace.(Žè‚‚8›ÿ°çø1
+Mcsharpsquid:S3903Ä"(Move 'CacheItem' into a named namespace.(âÄ›“8›ÿ°çø1
+[csharpsquid:S3903Ñ"1Move 'CacheItemComparer1' into a named namespace.(Ò„šæýÿÿÿÿ8›ÿ°çø1
+Mcsharpsquid:S39036"$Move 'Cache' into a named namespace.(Î×ØŒùÿÿÿÿ8›ÿ°çø1
+@csharpsquid:S2933;"Make '_capacity' 'readonly'.(®Íà«8›ÿ°çø1
+^csharpsquid:S112½"5'System.Exception' should not be thrown by user code.(œû¤²øÿÿÿÿ8œÿ°çø1

@@ -1,0 +1,14 @@
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/bin/Debug/net6.0/Example
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/bin/Debug/net6.0/Example.deps.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/bin/Debug/net6.0/Example.runtimeconfig.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/bin/Debug/net6.0/Example.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/bin/Debug/net6.0/Example.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.AssemblyInfoInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.AssemblyInfo.cs
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.csproj.CoreCompileInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/refint/Example.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/Example.genruntimeconfig.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net6.0/ref/Example.dll

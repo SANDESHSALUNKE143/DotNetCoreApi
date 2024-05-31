@@ -1,0 +1,5 @@
+
+«csharpsquid:S1210f"\When implementing IComparable<T>, you should also override Equals, ==, !=, <, <=, >, and >=.(Å¬ë§ÿÿÿÿÿ8àÃË€ù1J$08df5b32-8c50-4ac3-ae50-2c4fd63f3147
+tcsharpsquid:S1481"*Remove the unused local variable 'result'.(ÿÿü…8òè€ù1J$c8a4869c-52fb-4a47-a073-7faf462011ad
+tcsharpsquid:S14819"*Remove the unused local variable 'result'.(ÿÿü…8èß…ù1J$b225653a-4e8f-4fee-9cf7-13392b180130
+csharpsquid:S1481>">Remove the unused local variable 'possibleIndicesForLakeView'.(¬İñùÿÿÿÿ8Õ«•ù1J$3a0c7fb7-82d7-4811-81f3-01f4fcf6c70e

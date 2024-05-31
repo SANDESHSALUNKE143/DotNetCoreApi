@@ -1,0 +1,5 @@
+
+«csharpsquid:S1210"\When implementing IComparable<T>, you should also override Equals, ==, !=, <, <=, >, and >=.(ëóÅûÿÿÿÿ8êü°çø1J$b5a1a9b1-2a77-4c76-8f4c-402899552b44
+ecsharpsquid:S29330"Make '_minHeap' 'readonly'.(İñ¾ë8êü°çø1J$0538daa4-e9f8-4035-a73e-5240ff63db8a
+kcsharpsquid:S29331"Make '_lruCache' 'readonly'.(áĞäğùÿÿÿÿ8êü°çø1J$96197b7b-0632-48db-98a5-a9c4a8879071
+kcsharpsquid:S29333"Make '_capacity' 'readonly'.(ª ¾ıÿÿÿÿ8êü°çø1J$82e1b345-e183-4da0-9978-0e9c30d00667

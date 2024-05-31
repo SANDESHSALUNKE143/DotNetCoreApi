@@ -1,0 +1,10 @@
+
+„csharpsquid:S3928W"[Use a constructor overloads that allows a more meaningful exception message to be provided.(ŸÌûÇüÿÿÿÿ8‚ûíü1
+Ecsharpsquid:S2933"Make '_lruCache' 'readonly'.(áĞäğùÿÿÿÿ8ƒûíü1
+>csharpsquid:S2933"Make '_minHeap' 'readonly'.(àşú8ƒûíü1
+Ecsharpsquid:S2933
+"Make '_capacity' 'readonly'.(ª ¾ıÿÿÿÿ8ƒûíü1
+|csharpsquid:S4487"SRemove this unread private field '_lruCache' or refactor the code to use its value.(áĞäğùÿÿÿÿ8ƒûíü1
+ucsharpsquid:S4487"RRemove this unread private field '_minHeap' or refactor the code to use its value.(àşú8ƒûíü1
+|csharpsquid:S4487
+"SRemove this unread private field '_capacity' or refactor the code to use its value.(ª ¾ıÿÿÿÿ8ƒûíü1

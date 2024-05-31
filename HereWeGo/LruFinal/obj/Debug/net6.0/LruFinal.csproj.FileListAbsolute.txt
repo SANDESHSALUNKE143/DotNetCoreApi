@@ -1,0 +1,14 @@
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/bin/Debug/net6.0/LruFinal
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/bin/Debug/net6.0/LruFinal.deps.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/bin/Debug/net6.0/LruFinal.runtimeconfig.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/bin/Debug/net6.0/LruFinal.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/bin/Debug/net6.0/LruFinal.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.AssemblyInfoInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.AssemblyInfo.cs
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.csproj.CoreCompileInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/refint/LruFinal.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/LruFinal.genruntimeconfig.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/LruFinal/obj/Debug/net6.0/ref/LruFinal.dll
