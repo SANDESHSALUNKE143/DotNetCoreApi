@@ -1,0 +1,4 @@
+
+{csharpsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ô—ÒÎÿÿÿÿÿ8±™‡§¿1
+@csharpsquid:S1643U"Use a StringBuilder instead.(Â˜õø8±™‡§¿1
+@csharpsquid:S1643Y"Use a StringBuilder instead.(øÒÄó8±™‡§¿1

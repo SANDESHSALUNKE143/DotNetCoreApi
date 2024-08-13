@@ -1,0 +1,11 @@
+
+scsharpsquid:S1118"OAdd a 'protected' constructor or the 'static' keyword to the class declaration.(Žè‚‚8õ€±çø1
+Kcsharpsquid:S3903"'Move 'Solution' into a named namespace.(Žè‚‚8õ€±çø1
+Zcsharpsquid:S3903Í"0Move 'CacheItemComparer' into a named namespace.(£‘Žýÿÿÿÿ8õ€±çø1
+Rcsharpsquid:S3903»"(Move 'CacheItem' into a named namespace.(‰ÔÉÐùÿÿÿÿ8õ€±çø1
+Mcsharpsquid:S3903;"$Move 'Cache' into a named namespace.(­­¯ûÿÿÿÿ8õ€±çø1
+Dcsharpsquid:S2933="Make 'capacity' 'readonly'.(Ò—àçþÿÿÿÿ8õ€±çø1
+@csharpsquid:S2933>"Make 'sortedSet' 'readonly'.(¸’Öˆ8õ€±çø1
+?csharpsquid:S2933?"Make 'cacheMap' 'readonly'.(£Ñ†È8õ€±çø1
+Bcsharpsquid:S2933@"Make 'random' 'readonly'.(’ºÝÃøÿÿÿÿ8õ€±çø1
+`csharpsquid:S1144´"6Remove the unused private method 'GetExpiryThreshold'.(çÊ «þÿÿÿÿ8ö€±çø1

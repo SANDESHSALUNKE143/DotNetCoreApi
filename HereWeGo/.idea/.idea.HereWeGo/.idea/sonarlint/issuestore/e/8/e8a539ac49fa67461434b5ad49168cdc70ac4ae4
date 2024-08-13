@@ -1,0 +1,5 @@
+
+csharpsquid:S2971">Drop 'Where' and move the condition into the 'FirstOrDefault'.(õ†‡¹ÿÿÿÿÿ8¨¶£‰ù1J$c901e435-43f1-48e1-a68d-a5ba13828a17
+¦csharpsquid:S1210@"\When implementing IComparable<T>, you should also override Equals, ==, !=, <, <=, >, and >=.(ù…ÝÓ8¸²õˆù1J$2d8f0e92-75cc-4896-8947-da823a0dd7d9
+ecsharpsquid:S2933"Make '_minHeap' 'readonly'.( æ»È8ëòäˆù1J$01ac0424-9fb9-413c-a0a9-a551834cffa9
+ucsharpsquid:S1144"+Remove the unused private field 'minStack'.(Žóƒ®8ìòäˆù1J$90395f65-eca5-4f7e-8c72-03fc5f43b257

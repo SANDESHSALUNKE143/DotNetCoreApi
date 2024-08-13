@@ -1,0 +1,6 @@
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net45/Example.csproj.AssemblyReference.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net45/Example.csproj.SuggestedBindingRedirects.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net45/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net45/Example.AssemblyInfoInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net45/Example.AssemblyInfo.cs
+/Users/sandesh.salunke/RiderProjects/HereWeGo/Example/obj/Debug/net45/Example.csproj.CoreCompileInputs.cache

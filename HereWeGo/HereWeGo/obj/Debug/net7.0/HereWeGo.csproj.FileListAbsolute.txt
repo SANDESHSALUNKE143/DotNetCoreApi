@@ -1,0 +1,14 @@
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/bin/Debug/net7.0/HereWeGo
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/bin/Debug/net7.0/HereWeGo.deps.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/bin/Debug/net7.0/HereWeGo.runtimeconfig.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/bin/Debug/net7.0/HereWeGo.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/bin/Debug/net7.0/HereWeGo.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.AssemblyInfoInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.AssemblyInfo.cs
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.csproj.CoreCompileInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/refint/HereWeGo.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/HereWeGo.genruntimeconfig.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/HereWeGo/obj/Debug/net7.0/ref/HereWeGo.dll

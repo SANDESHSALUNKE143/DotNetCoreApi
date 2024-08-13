@@ -1,0 +1,8 @@
+
+£csharpsquid:S11554"zUse '.Any()' to test whether this 'IEnumerable<System.Collections.Generic.KeyValuePair<BookKey, string>>' is empty or not.(ì³‰õüÿÿÿÿ8“…±çø1
+Kcsharpsquid:S29714""Use 'Count' property here instead.(ì³‰õüÿÿÿÿ8”…±çø1
+€csharpsquid:S1210L"\When implementing IComparable<T>, you should also override Equals, ==, !=, <, <=, >, and >=.(õæ²8”…±çø1
+Scsharpsquid:S3903"*Move 'BookManager' into a named namespace.(¶÷ò²üÿÿÿÿ8”…±çø1
+Jcsharpsquid:S3903L"&Move 'BookKey' into a named namespace.(õæ²8”…±çø1
+Bcsharpsquid:S2933"Make 'generToBook' 'readonly'.(½„•„8”…±çø1
+Kcsharpsquid:S2933"'Make 'bookToGenreAndRating' 'readonly'.(ô¸œ8”…±çø1

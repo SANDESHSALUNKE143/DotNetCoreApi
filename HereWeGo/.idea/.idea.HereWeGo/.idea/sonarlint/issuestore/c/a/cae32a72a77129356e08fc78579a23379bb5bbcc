@@ -1,0 +1,12 @@
+
+™csharpsquid:S1118	"OAdd a 'protected' constructor or the 'static' keyword to the class declaration.(è‚‚8·‚±çø1J$fbc90d6e-1592-4607-8eeb-821bf38c717d
+qcsharpsquid:S3903	"'Move 'Solution' into a named namespace.(è‚‚8·‚±çø1J$58de4825-e7a3-4052-bebf-3ac792054afa
+ƒcsharpsquid:S3903ñ"8Move 'CacheComparerWithLastUsed' into a named namespace.(‚Æë°8·‚±çø1J$1f99319e-edba-4b14-80d1-0434b8eae0cc
+†csharpsquid:S3903ù"6Move 'CacheComparerWithExpiry' into a named namespace.(÷É´àøÿÿÿÿ8·‚±çø1J$6f0cc117-711d-4c36-885d-cdb81370dd66
+scsharpsquid:S3903-"$Move 'Cache' into a named namespace.(Î×ØŒùÿÿÿÿ8·‚±çø1J$ff9da312-ae59-4143-bead-7559e3bcb878
+xcsharpsquid:S3903è"(Move 'CacheItem' into a named namespace.(‰ÔÉĞùÿÿÿÿ8·‚±çø1J$94dfadc8-fe24-45a9-9444-ee9681fb9862
+”csharpsquid:S2589­"DChange this condition so that it does not always evaluate to 'True'.(ÅûÛ¤üÿÿÿÿ8¸‚±çø1J$6ce0693d-ce68-4e27-a5d9-622602455f43
+”csharpsquid:S2589Ì"DChange this condition so that it does not always evaluate to 'True'.(‚®ıûÿÿÿÿ8¸‚±çø1J$63ea23ad-b2fc-40d7-b7b9-7fad5d11a146
+šcsharpsquid:S3241Ø"JChange return type to 'void'; not a single caller uses the returned value.(œ´µ»ùÿÿÿÿ8¸‚±çø1J$367b9050-dc1d-475a-9608-83dfd6283a11
+‚csharpsquid:S1481y"3Remove the unused local variable 'thresholdExpiry'.(ç–ç´úÿÿÿÿ8¹‚±çø1J$7c43ac18-09b5-4261-bb6c-7e6460c60de8
+hcsharpsquid:S125}"Remove this commented out code.(ïı‘¢8¹‚±çø1J$83afd492-8f9a-4cb2-9d83-0293b2eeaeee

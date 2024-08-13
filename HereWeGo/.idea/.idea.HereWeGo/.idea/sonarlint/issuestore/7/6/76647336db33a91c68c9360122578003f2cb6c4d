@@ -1,0 +1,7 @@
+
+…csharpsquid:S1210C"\When implementing IComparable<T>, you should also override Equals, ==, !=, <, <=, >, and >=.(ÑíÆÊüÿÿÿÿ8òƒ±çø1
+Ncsharpsquid:S3903"*Move 'BookManager' into a named namespace.(ÃèÙ8òƒ±çø1
+Hcsharpsquid:S2933	"Make 'genreToBooks' 'readonly'.(ßÌ†üÿÿÿÿ8òƒ±çø1
+Kcsharpsquid:S2933
+"'Make 'bookToGenreAndRating' 'readonly'.(œ÷¤Á8òƒ±çø1
+„csharpsquid:S3260C"[Private classes which are not derived in the current assembly should be marked as 'sealed'.(ÑíÆÊüÿÿÿÿ8óƒ±çø1

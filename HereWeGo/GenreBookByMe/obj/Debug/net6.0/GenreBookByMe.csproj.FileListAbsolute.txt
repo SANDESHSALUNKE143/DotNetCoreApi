@@ -1,0 +1,14 @@
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/bin/Debug/net6.0/GenreBookByMe
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/bin/Debug/net6.0/GenreBookByMe.deps.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/bin/Debug/net6.0/GenreBookByMe.runtimeconfig.json
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/bin/Debug/net6.0/GenreBookByMe.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/bin/Debug/net6.0/GenreBookByMe.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.AssemblyInfoInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.AssemblyInfo.cs
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.csproj.CoreCompileInputs.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/refint/GenreBookByMe.dll
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.pdb
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/GenreBookByMe.genruntimeconfig.cache
+/Users/sandesh.salunke/RiderProjects/HereWeGo/GenreBookByMe/obj/Debug/net6.0/ref/GenreBookByMe.dll
